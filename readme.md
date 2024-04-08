@@ -23,7 +23,7 @@ The project consists of the following components:
 2. Navigate to the project directory:
 
    ```
-   cd gan-image-generator
+   cd DL_Assigment_Q4
    ```
 
 3. Install dependencies using pip:
@@ -60,7 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project is inspired by the concept of Generative Adversarial Networks (GANs) and utilizes the TensorFlow library for implementation.
 - Special thanks to the developers of Flask for providing a simple and powerful web framework for Python.
-
-
----
-Feel free to modify and expand this README file to provide more detailed information about your project.
